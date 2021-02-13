@@ -1,6 +1,6 @@
 # CalculateBmi
 
-**TODO: Add description**
+**Description: a simple code to calculate a person's BMI using elixir**
 
 ## Installation
 
